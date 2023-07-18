@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\reset.scss"],"names":[],"mappings":"AAAA,oBAME,QAAS","file":"reset.e3b64d82.css","sourceRoot":"..\\src","sourcesContent":["body,\ndiv,\nimg,\nh2,\np,\na {\n  margin: 0;\n}\n"]}
